@@ -1,0 +1,1 @@
+A lightweight, robust Java-based TCP socket server that implements a custom text protocol for remote file management. Designed from scratch using low-level Java networking libraries (ServerSocket and Socket) to demonstrate fundamental concurrency, blocking I/O, and socket lifecycle management.
